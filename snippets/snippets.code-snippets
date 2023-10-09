@@ -1,0 +1,264 @@
+{
+  // io templete for c++
+  "Cpp iostream Template": {
+    "prefix": "io",
+    "body": [
+      "#include<iostream>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream header file and main function."
+  },
+
+  // vector templete for c++
+  "Cpp vector Template": {
+    "prefix": "vec",
+    "body": [
+      "#include<iostream>",
+      "#include<vector>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, vector header file and main function."
+  },
+
+  // string templete for c++
+  "Cpp string Template": {
+    "prefix": "str",
+    "body": [
+      "#include<iostream>",
+      "#include<string>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, string header file and main function."
+  },
+
+  // set templete for c++
+  "Cpp set Template": {
+    "prefix": "set",
+    "body": [
+      "#include<iostream>",
+      "#include<set>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, set header file and main function."
+  },
+
+  // map templete for c++
+  "Cpp map Template": {
+    "prefix": "map",
+    "body": [
+      "#include<iostream>",
+      "#include<map>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, map header file and main function."
+  },
+
+  // pair templete for c++
+  "Cpp pair Template": {
+    "prefix": "pair",
+    "body": [
+      "#include<iostream>",
+      "#include<utility>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, utility header file and main function."
+  },
+
+  // stack templete for c++
+  "Cpp stack Template": {
+    "prefix": "stack",
+    "body": [
+      "#include<iostream>",
+      "#include<stack>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, stack header file and main function."
+  },
+
+  // queue templete for c++
+  "Cpp queue Template": {
+    "prefix": "queue",
+    "body": [
+      "#include<iostream>",
+      "#include<queue>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, queue header file and main function."
+  },
+
+  // deque templete for c++
+  "Cpp deque Template": {
+    "prefix": "deque",
+    "body": [
+      "#include<iostream>",
+      "#include<deque>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, deque header file and main function."
+  },
+
+  // priority_queue templete for c++
+  "Cpp priority_queue Template": {
+    "prefix": "pq",
+    "body": [
+      "#include<iostream>",
+      "#include<queue>",
+      "using namespace std;",
+      "priority_queue<int> pq;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, queue header file and main function."
+  },
+
+  // list templete for c++
+  "Cpp list Template": {
+    "prefix": "list",
+    "body": [
+      "#include<iostream>",
+      "#include<list>",
+      "using namespace std;",
+      "list<int> l;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, list header file and main function."
+  },
+
+  // iterator templete for c++
+  "Cpp iterator Template": {
+    "prefix": "it",
+    "body": [
+      "#include<iostream>",
+      "#include<iterator>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, iterator header file and main function."
+  },
+
+   // cpp stack and vector templete for c++
+    "Cpp stack and vector Template": {
+        "prefix": "stvec",
+        "body": [
+        "#include<iostream>",
+        "#include<stack>",
+        "#include<vector>",
+        "using namespace std;",
+        "stack<int> s;",
+        "vector<int> v;",
+        "$0",
+        "int main()",
+        "{",
+        "    $1",
+        "    return 0;",
+        "}"
+        ],
+    
+        "description": "Creates iostream, stack, vector header file and main function."
+
+  // cpp algorithm and vector templete for c++
+  "Cpp algorithm and vector Template": {
+    "prefix": "alvec",
+    "body": [
+      "#include<iostream>",
+      "#include<algorithm>",
+      "#include<vector>",
+      "using namespace std;",
+      "vector<int> v;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+
+    "description": "Creates iostream, algorithm, vector header file and main function."
+  },
+
+  // algorithm templete for c++
+
+  "Cpp algorithm Template": {
+    "prefix": "al",
+    "body": [
+      "#include<iostream>",
+      "#include<algorithm>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, algorithm header file and main function."
+  }
+}

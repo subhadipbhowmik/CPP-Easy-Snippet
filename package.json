@@ -1,0 +1,33 @@
+{
+  "name": "cpp-easy-snippet",
+  "displayName": "CPP Easy Snippet",
+  "description": "Boost your C++ coding with this VS Code extension, effortlessly generating snippets and boilerplates.",
+  "version": "1.0.0",
+  "publisher": "ShubhadipBhowmik",
+  "keywords": [
+    "C++",
+    "CPP Snippet",
+    "Snippet",
+    "C++ boilerplates",
+    "CPP Biolerplate"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subhadipbhowmik/CPP-Simple-Snippet.git"
+  },
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cpp",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
