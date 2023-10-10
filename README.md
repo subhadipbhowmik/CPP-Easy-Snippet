@@ -248,9 +248,6 @@ int main()
 ## Live View
 ![cpp-easy-snippet](https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/d4c975b1-7066-4dba-9dd4-e798ed7edd6d)
 
-## Live View
-
-![cpp-easy-snippet](https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/d4c975b1-7066-4dba-9dd4-e798ed7edd6d)
 
 ## Features
 
