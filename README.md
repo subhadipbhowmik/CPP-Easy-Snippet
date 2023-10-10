@@ -10,18 +10,10 @@ Boost your C++ development productivity with the **CPP Boilerplate Generator** e
 **Step 2:** Not Download Yet? [Download Now](https://marketplace.visualstudio.com/items?itemName=ShubhadipBhowmik.cpp-easy-snippet)<br>
 **Step 3:** Find all snippets below and use as per need.<br>
 **Step 4:** Happy Coding<br>
-<<<<<<< HEAD
 
 ### Watch Tutorial
+https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/87695cac-ca7d-482a-bd21-a9635f06d9f9
 
-https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/bb9ea7af-565b-4ef6-b7c4-eb819e40a797
-=======
-### Watch Tutorial
-
-https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/bb9ea7af-565b-4ef6-b7c4-eb819e40a797
-
-
->>>>>>> 6802188d40977d745df0ff3204b998ab4b02e2f7
 
 ## All C++ Snippet
 
@@ -45,13 +37,8 @@ https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/bb9ea7af-5
 | 16  | iostackvec             | iostream, stack, vector     |
 
 ---
-<<<<<<< HEAD
 
 ### View Snippet Codes
-
-=======
-### View Snippet Codes
->>>>>>> 6802188d40977d745df0ff3204b998ab4b02e2f7
 **1. io = iostream**
 
 ```cpp
