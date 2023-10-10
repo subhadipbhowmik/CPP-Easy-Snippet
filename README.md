@@ -1,4 +1,4 @@
-# CPP Easy Snippet
+# CPP Easy Snippe
 
 ### Description
 
