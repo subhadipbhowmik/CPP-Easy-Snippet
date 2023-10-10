@@ -1,4 +1,4 @@
-# CPP Easy Snippet
+# CPP Easy Snippe
 
 ### Description
 
@@ -12,8 +12,12 @@ Boost your C++ development productivity with the **CPP Boilerplate Generator** e
 **Step 4:** Happy Coding<br>
 
 ### Watch Tutorial
-
 https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/87695cac-ca7d-482a-bd21-a9635f06d9f9
+
+<<<<<<< HEAD
+https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/87695cac-ca7d-482a-bd21-a9635f06d9f9
+=======
+>>>>>>> 2b3b8d58c6a2f9dd8cd12a18102506de79158e26
 
 ## All C++ Snippet
 
@@ -39,7 +43,10 @@ https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/87695cac-c
 ---
 
 ### View Snippet Codes
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2b3b8d58c6a2f9dd8cd12a18102506de79158e26
 **1. io = iostream**
 
 ```cpp
@@ -234,9 +241,6 @@ int main()
 }
 ```
 
-## Live View
-
-![cpp-easy-snippet](https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/d4c975b1-7066-4dba-9dd4-e798ed7edd6d)
 
 ## Features
 
