@@ -13,7 +13,7 @@ Boost your C++ development productivity with the **CPP Boilerplate Generator** e
 
 ### Watch Tutorial
 
-https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/87695cac-ca7d-482a-bd21-a9635f06d9f9
+![cpp-easy-snippet](https://github.com/subhadipbhowmik/CPP-Easy-Snippet/assets/57017965/54cd789f-425e-44b4-81ba-b6aaaf652f40)
 
 ## All C++ Snippet
 
@@ -38,8 +38,11 @@ https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/87695cac-c
 
 ---
 
-### View Snippet Codes
+### View Demo Codes 
+![cpp-easy-snippet](https://github.com/subhadipbhowmik/CPP-Easy-Snippet/assets/57017965/1c041083-652d-4cf7-aa6e-f8ca89ca2520)
 
+
+### View Snippet Codes
 **1. io = iostream**
 
 ```cpp
