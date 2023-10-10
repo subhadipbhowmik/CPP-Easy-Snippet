@@ -6,10 +6,15 @@ Boost your C++ development productivity with the **CPP Boilerplate Generator** e
 
 ### How to Use
 
-**Step 1:** Install CPP Easy Snippet
-**Step 2:** Not Download Yet? [Download Now](https://marketplace.visualstudio.com/items?itemName=ShubhadipBhowmik.cpp-easy-snippet)
-**Step 3:** Find all snippets below and use as per need.
-**Step 4:** Happy Coding
+**Step 1:** Install CPP Easy Snippet<br>
+**Step 2:** Not Download Yet? [Download Now](https://marketplace.visualstudio.com/items?itemName=ShubhadipBhowmik.cpp-easy-snippet)<br>
+**Step 3:** Find all snippets below and use as per need.<br>
+**Step 4:** Happy Coding<br>
+### Watch Tutorial
+
+https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/bb9ea7af-565b-4ef6-b7c4-eb819e40a797
+
+
 
 ## All C++ Snippet
 
@@ -33,7 +38,7 @@ Boost your C++ development productivity with the **CPP Boilerplate Generator** e
 | 16  | iostackvec             | iostream, stack, vector     |
 
 ---
-
+### View Snippet Codes
 **1. io = iostream**
 
 ```cpp
@@ -227,6 +232,8 @@ int main()
     return 0;
 }
 ```
+## Live View
+![cpp-easy-snippet](https://github.com/subhadipbhowmik/CPP-Simple-Snippet/assets/57017965/d4c975b1-7066-4dba-9dd4-e798ed7edd6d)
 
 ## Features
 
@@ -247,3 +254,5 @@ int main()
 8. **Intuitive Interface:** A user-friendly interface within Visual Studio Code makes generating boilerplate code a breeze.
 
 Simplify your C++ development workflow and focus on writing code that matters with the **CPP Boilerplate Generator** extension.
+
+
