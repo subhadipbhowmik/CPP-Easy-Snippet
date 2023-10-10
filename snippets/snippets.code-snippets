@@ -3,7 +3,7 @@
   "Cpp iostream Template": {
     "prefix": "io",
     "body": [
-      "#include<iostream>",
+      "#include <iostream>",
       "using namespace std;",
       "$0",
       "int main()",
@@ -15,12 +15,29 @@
     "description": "Creates iostream header file and main function."
   },
 
+  // algorithm templete for c++
+  "Cpp algorithm Template": {
+    "prefix": "ioal",
+    "body": [
+      "#include <iostream>",
+      "#include <algorithm>",
+      "using namespace std;",
+      "$0",
+      "int main()",
+      "{",
+      "    $1",
+      "    return 0;",
+      "}"
+    ],
+    "description": "Creates iostream, algorithm header file and main function."
+  },
+
   // vector templete for c++
   "Cpp vector Template": {
-    "prefix": "vec",
+    "prefix": "iovec",
     "body": [
-      "#include<iostream>",
-      "#include<vector>",
+      "#include <iostream>",
+      "#include <vector>",
       "using namespace std;",
       "$0",
       "int main()",
@@ -34,10 +51,10 @@
 
   // string templete for c++
   "Cpp string Template": {
-    "prefix": "str",
+    "prefix": "iostr",
     "body": [
-      "#include<iostream>",
-      "#include<string>",
+      "#include <iostream>",
+      "#include <string>",
       "using namespace std;",
       "$0",
       "int main()",
@@ -51,10 +68,10 @@
 
   // set templete for c++
   "Cpp set Template": {
-    "prefix": "set",
+    "prefix": "ioset",
     "body": [
-      "#include<iostream>",
-      "#include<set>",
+      "#include <iostream>",
+      "#include <set>",
       "using namespace std;",
       "$0",
       "int main()",
@@ -68,10 +85,10 @@
 
   // map templete for c++
   "Cpp map Template": {
-    "prefix": "map",
+    "prefix": "iomap",
     "body": [
-      "#include<iostream>",
-      "#include<map>",
+      "#include <iostream>",
+      "#include <map>",
       "using namespace std;",
       "$0",
       "int main()",
@@ -85,10 +102,10 @@
 
   // pair templete for c++
   "Cpp pair Template": {
-    "prefix": "pair",
+    "prefix": "iopair",
     "body": [
-      "#include<iostream>",
-      "#include<utility>",
+      "#include <iostream>",
+      "#include <utility>",
       "using namespace std;",
       "$0",
       "int main()",
@@ -102,10 +119,10 @@
 
   // stack templete for c++
   "Cpp stack Template": {
-    "prefix": "stack",
+    "prefix": "iostack",
     "body": [
-      "#include<iostream>",
-      "#include<stack>",
+      "#include <iostream>",
+      "#include <stack>",
       "using namespace std;",
       "$0",
       "int main()",
@@ -119,10 +136,10 @@
 
   // queue templete for c++
   "Cpp queue Template": {
-    "prefix": "queue",
+    "prefix": "ioque",
     "body": [
-      "#include<iostream>",
-      "#include<queue>",
+      "#include <iostream>",
+      "#include <queue>",
       "using namespace std;",
       "$0",
       "int main()",
@@ -136,10 +153,10 @@
 
   // deque templete for c++
   "Cpp deque Template": {
-    "prefix": "deque",
+    "prefix": "iodeque",
     "body": [
-      "#include<iostream>",
-      "#include<deque>",
+      "#include <iostream>",
+      "#include <deque>",
       "using namespace std;",
       "$0",
       "int main()",
@@ -153,10 +170,10 @@
 
   // priority_queue templete for c++
   "Cpp priority_queue Template": {
-    "prefix": "pq",
+    "prefix": "iopq",
     "body": [
-      "#include<iostream>",
-      "#include<queue>",
+      "#include <iostream>",
+      "#include <queue>",
       "using namespace std;",
       "priority_queue<int> pq;",
       "$0",
@@ -171,10 +188,10 @@
 
   // list templete for c++
   "Cpp list Template": {
-    "prefix": "list",
+    "prefix": "iolist",
     "body": [
-      "#include<iostream>",
-      "#include<list>",
+      "#include <iostream>",
+      "#include <list>",
       "using namespace std;",
       "list<int> l;",
       "$0",
@@ -189,10 +206,10 @@
 
   // iterator templete for c++
   "Cpp iterator Template": {
-    "prefix": "it",
+    "prefix": "ioit",
     "body": [
-      "#include<iostream>",
-      "#include<iterator>",
+      "#include <iostream>",
+      "#include <iterator>",
       "using namespace std;",
       "$0",
       "int main()",
@@ -204,33 +221,13 @@
     "description": "Creates iostream, iterator header file and main function."
   },
 
-   // cpp stack and vector templete for c++
-    "Cpp stack and vector Template": {
-        "prefix": "stvec",
-        "body": [
-        "#include<iostream>",
-        "#include<stack>",
-        "#include<vector>",
-        "using namespace std;",
-        "stack<int> s;",
-        "vector<int> v;",
-        "$0",
-        "int main()",
-        "{",
-        "    $1",
-        "    return 0;",
-        "}"
-        ],
-    
-        "description": "Creates iostream, stack, vector header file and main function."
-
   // cpp algorithm and vector templete for c++
   "Cpp algorithm and vector Template": {
-    "prefix": "alvec",
+    "prefix": "ioalvec",
     "body": [
-      "#include<iostream>",
-      "#include<algorithm>",
-      "#include<vector>",
+      "#include <iostream>",
+      "#include <algorithm>",
+      "#include <vector>",
       "using namespace std;",
       "vector<int> v;",
       "$0",
@@ -244,14 +241,16 @@
     "description": "Creates iostream, algorithm, vector header file and main function."
   },
 
-  // algorithm templete for c++
-
-  "Cpp algorithm Template": {
-    "prefix": "al",
+  // cpp stack and vector templete for c++
+  "Cpp stack and vector Template": {
+    "prefix": "iostackvec",
     "body": [
-      "#include<iostream>",
-      "#include<algorithm>",
+      "#include <iostream>",
+      "#include <stack>",
+      "#include <vector>",
       "using namespace std;",
+      "stack<int> s;",
+      "vector<int> v;",
       "$0",
       "int main()",
       "{",
@@ -259,6 +258,24 @@
       "    return 0;",
       "}"
     ],
-    "description": "Creates iostream, algorithm header file and main function."
+
+    "description": "Creates iostream, stack, vector header file and main function."
+  },
+
+  // cpp hello world templete for c++
+  "Hello, World! in C++": {
+    "prefix": "cpphello",
+    "body": [
+      "#include <iostream>",
+      "using namespace std;",
+      "int main() {",
+      "    cout << \"CPP Easy Snippet\" << endl;",
+      "    return 0;",
+      "}",
+      ""
+    ],
+    "description": "Hello, World! in C++"
   }
+
+  // cpp std/c++ templete for c++
 }
