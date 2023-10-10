@@ -2,7 +2,7 @@
   "name": "cpp-easy-snippet",
   "displayName": "CPP Easy Snippet",
   "description": "Boost your C++ coding with this VS Code extension, effortlessly generating snippets and boilerplates.",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "publisher": "ShubhadipBhowmik",
   "keywords": [
     "C++",
