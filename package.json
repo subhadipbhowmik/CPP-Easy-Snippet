@@ -2,7 +2,12 @@
   "name": "cpp-easy-snippet",
   "displayName": "CPP Easy Snippet",
   "description": "Boost your C++ coding with this VS Code extension, effortlessly generating snippets and boilerplates.",
-  "version": "1.5.0",
+  "version": "1.6.0",
+  "author": {
+    "name": "Shubhadip Bhowmik",
+    "email": "shubhadipbhowmikdev@gmail.com",
+    "url": "https://shubhadip.netlify.app/"
+  },
   "publisher": "ShubhadipBhowmik",
   "keywords": [
     "C++",
@@ -14,7 +19,7 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/subhadipbhowmik/CPP-Simple-Snippet.git"
+    "url": "https://github.com/subhadipbhowmik/CPP-Easy-Snippet"
   },
   "engines": {
     "vscode": "^1.83.0"
