@@ -2,7 +2,7 @@
   "name": "cpp-easy-snippet",
   "displayName": "CPP Easy Snippet",
   "description": "Boost your C++ coding with this VS Code extension, effortlessly generating snippets and boilerplates.",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "author": {
     "name": "Shubhadip Bhowmik",
     "email": "shubhadipbhowmikdev@gmail.com",
@@ -13,8 +13,10 @@
     "C++",
     "CPP Snippet",
     "Snippet",
-    "C++ boilerplates",
-    "CPP Biolerplate"
+    "C++ Boilerplates",
+    "CPP Biolerplate",
+    "C++ Extension",
+    "CPP Extension"
   ],
   "icon": "icon.png",
   "repository": {
